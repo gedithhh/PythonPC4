@@ -1,0 +1,4 @@
+Precios del Bitcoin:
+USD: 31754.0449
+GBP: 26533.4259
+EUR: 30933.0758
